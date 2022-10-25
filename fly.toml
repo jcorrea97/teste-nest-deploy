@@ -1,6 +1,6 @@
-# fly.toml file generated for young-dawn-4778 on 2022-09-29T12:11:09-03:00
+# fly.toml file generated for lively-moon-2125 on 2022-10-25T12:15:48-03:00
 
-app = "young-dawn-4778"
+app = "lively-moon-2125"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
